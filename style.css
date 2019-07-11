@@ -1,1 +1,43 @@
+body {
+    font-family: 'Khula', sans-serif;
+    background-color: #F1F3F3;
+}
+
+.jumbotron {
+    color: #006666;
+}
+
+h1 {
+    font-family: 'Permanent Marker', cursive;
+    
+     
+}
+
+h2 {
+    font-family: 'Permanent Marker', cursive;
+    color: #cc0066;
+}
+
+#top {
+    background-color: white;
+}
+
+#trainList {
+    border: 1px solid black;
+}
+
+
+.btn {
+    background-color: #006666;
+    color: white;
+}
+
+#trainAdd {
+    border: 1px solid black;
+}
+
+.panel-primary>.panel-heading {
+	background-color: #ff661a;
+	color: white;
+}
 
